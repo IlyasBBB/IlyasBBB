@@ -13,7 +13,7 @@ Je cherche un stage de fin d'études de 5 à 6 mois à partir de mars 2027.
 | [ProjeX](https://github.com/IlyasBBB/Gestion-de-projets) | Suivi des tickets d'une équipe SI, développé en stage à la Digital Factory de Cosumar et utilisé par l'équipe. Workflow à cinq états appliqué côté serveur, rôles admin et membre, tableau kanban. | Django, SQLite, 32 tests |
 | [InvestMind](https://github.com/IlyasBBB/ia-agentique-investissement) | Agent IA qui classe 2 000 projets de la Banque mondiale et justifie sa recommandation, avec un LLM local. Projet de groupe : j'en étais le responsable technique. | Python, Ollama, LightGBM, Streamlit |
 | [mcda_kit](https://github.com/IlyasBBB/Bonus-MCDA) | Aide à la décision multicritère décrite dans un fichier JSON : somme pondérée, AHP, PROMETHEE, ELECTRE IS, analyse de sensibilité. Projet de groupe. | Python, NumPy |
-| [Dataset Analyzer](https://github.com/IlyasBBB/fastapi-dataset-analyzer) | API REST qui stocke des CSV et renvoie statistiques, export Excel et rapport PDF de graphiques. Test technique pour une candidature. | FastAPI, pandas, 14 tests |
+| [Dataset Analyzer](https://github.com/IlyasBBB/fastapi-dataset-analyzer) | API REST qui stocke des CSV et renvoie statistiques, export Excel et rapport PDF de graphiques, avec un client en ligne de commande et une page web. | FastAPI, pandas, 14 tests |
 | [CodeCheck](https://github.com/IlyasBBB/CodeCheck) | Plateforme pour s'entraîner à Python : test de niveau, problèmes par domaine, correction automatique. Projet de groupe du cours TDLog. | Django, 17 tests |
 
 #### Contact
