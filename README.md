@@ -2,7 +2,7 @@
 
 Élève-ingénieur en dernière année à l'École Centrale Casablanca (promotion 2027). Je travaille surtout entre le métier et l'équipe technique : recueil des besoins, spécifications, recette, suivi de projet. J'écris aussi le code quand il faut, en Python surtout.
 
-Je cherche un stage de fin d'études de 5 à 6 mois à partir de mars 2027, au Maroc ou à Hong Kong.
+Je cherche un stage de fin d'études de 5 à 6 mois à partir de mars 2027.
 
 **Expérience récente.** Deux stages chez CFL Cargo (Luxembourg, 2025-2026) sur l'ERP Corail : automatisation des tests fonctionnels et de non-régression (AutoIt, OCR Tesseract), puis chef de projet fonctionnel du module Visiteurs (besoins, comités de projet, recette, conduite du changement, passage du suivi de Planner à Jira).
 
@@ -20,4 +20,4 @@ Je cherche un stage de fin d'études de 5 à 6 mois à partir de mars 2027, au M
 
 [LinkedIn](https://www.linkedin.com/in/ilyas-ben-alla-b795911a5) · ilyas.benalla@centrale-casablanca.ma
 
-<sub>In English: final-year engineering student at École Centrale Casablanca, working between business teams and developers (requirements, specifications, acceptance testing, project follow-up). Looking for a 5 to 6-month final-year internship from March 2027, in Morocco or Hong Kong.</sub>
+<sub>In English: final-year engineering student at École Centrale Casablanca, working between business teams and developers (requirements, specifications, acceptance testing, project follow-up). Looking for a 5 to 6-month final-year internship from March 2027.</sub>
